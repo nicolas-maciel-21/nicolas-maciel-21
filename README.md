@@ -15,7 +15,7 @@ Atualmente, estou focado em **desenvolver minhas habilidades em programação**,
 
 - 🎓 Estudante de **Ciência da Computação** | **UFRRJ**
 - 🔧 **Técnico em Eletrônica** | **FAETEC**
-- 💻 Conhecimentos em **programação estruturada e lógica computacional**
+
 
 ---
 
@@ -36,7 +36,6 @@ Tenho experiência e sigo me desenvolvendo com:
 - ⚙️ **Outros conhecimentos**
   - Eletrônica digital e analógica
   - Integração hardware ↔ software
-  - Análise e resolução de problemas técnicos
   - Manutenção de redes e computadores
 
 ---
