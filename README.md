@@ -6,8 +6,8 @@
 
 ## 🌱 Sobre mim
 
-Sou estudante de **Ciência da Computação**, com **formação técnica em Eletrônica**, apaixonado por tecnologia, lógica e resolução de problemas.  
-Tenho interesse em **desenvolvimento de software**, lógica de programação e fundamentos da computação. Gosto de entender como os problemas funcionam por trás das soluções e transformar isso em código claro e eficiente.
+Sou estudante de **Ciência da Computação**, com **formação técnica em Eletrônica**, apaixonado por tecnologia, inovação e resolução de problemas.  
+Tenho interesse em **desenvolvimento de software** e fundamentos da computação. Gosto de entender como os problemas funcionam por trás das soluções e transformar isso em processos eficientes.
 
 Atualmente, estou focado em **desenvolver minhas habilidades em programação**, algoritmos e fundamentos da computação, sempre buscando aprender na prática.
 
@@ -19,39 +19,22 @@ Atualmente, estou focado em **desenvolver minhas habilidades em programação**,
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Linguagens e Ferramentas 
 
-Tenho experiência e sigo me desenvolvendo com:
-
-- 💡 **Linguagens**
   - C
+  - Java
   - Python
-
-- 🧠 **Fundamentos**
-  - Lógica de programação
-  - Estruturas de dados
-  - Algoritmos
-  - Pensamento computacional
-
-- ⚙️ **Outros conhecimentos**
-  - Eletrônica digital e analógica
-  - Integração hardware ↔ software
-  - Manutenção de redes e computadores
+  - Git
+  - GitHub
+  - Visual Code
+  - Eclipse IDE
+  - Pycharm
 
 ---
 
-## 🚀 Em constante evolução
-
-Acredito que a área de tecnologia exige aprendizado contínuo.  
-Estou sempre buscando melhorar meu código, entender conceitos mais profundos da computação e participar de projetos que façam sentido na prática.
-
----
 
 ## 📫 Vamos conversar?
 
 - 💬 Me chama aqui pelo GitHub
 - 🔗 Ou pelo LinkedIn *www.linkedin.com/in/nícolas-maciel-6aba1b2bb*
 
----
-
-🚀 *“O aprendizado constante é parte do processo.”*
